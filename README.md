@@ -64,4 +64,5 @@ test_scenarios.py covers the 12 required demo scenarios. demo_my_part.py shows s
 
 ## Team
 
-Person A: data, tools, guardrails, tool failure handling. Person B: agents, workflow, escalation, tracing and sessions. Together: integration, UI, README.
+Eyad Mostafa: data, tools, guardrails, tool failure handling. Ahmed Hmdan : agents, workflow, escalation, tracing and sessions. Together: integration, UI, README.
+Submitted to Eng.Ahmed Hassan - EyouthxDEPI5 
