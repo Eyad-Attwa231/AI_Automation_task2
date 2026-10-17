@@ -52,7 +52,7 @@ SQLiteSession keeps the conversation per session (sessions.db), so a follow-up w
     pip install openai-agents gradio pydantic
     ollama pull qwen2.5:7b
     $env:OLLAMA_MODEL = "qwen2.5:7b"
-    py app.py
+    py app.py or py -3.14 app.py
 
 ## Tests
 
